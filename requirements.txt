@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+langchain_community
+python-dotenv
+ipykernel
+langchain_huggingface 
+sentence-transformers
+streamlit
+wikipedia 
+langchain-tavily
+arxiv
